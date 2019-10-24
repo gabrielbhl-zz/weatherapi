@@ -1,4 +1,4 @@
-# openweather-sample
+# openweather-api
 
 ## Running
 - Clone this repository
